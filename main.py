@@ -19,8 +19,7 @@ def show_banner() :
     ▐░░░░░░░░░░░▌   ▐░▌       ▐░▌               ▐░░░░░░░░░░░▌▐░▌       ▐░▌          ▐░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌
     ▀▀▀▀▀▀▀▀▀▀▀     ▀         ▀                 ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀            ▀  ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀
     Coded by 47Hx1-53r
-    Specially for kalam people
-    Phone : +918606672509
+    Phone : +56959994444
     
 ********************************
     ''')
@@ -54,7 +53,7 @@ def num():
                 print(f"{Fore.CYAN}ANDHADA MOWNU NINEK OTP KANANOW\n")
                 print(f"{Fore.RED}Prenk ane mwona , adhaa kyamara noke . . . ")
             else:
-                print("Unexpected error occured, contact +918606672509 for a solution")
+                print("Unexpected error occured, contact +56959994444 for a solution")
         else: print(f"{Fore.RED}Number format is incorrect")
         num()
 
